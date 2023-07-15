@@ -1,4 +1,7 @@
 # Jun Xyu（徐骏）
 
-## My
+## Biography
+I am a student in Sichuan University(SCU).
+
+## My Experience
 
